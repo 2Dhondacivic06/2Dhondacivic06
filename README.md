@@ -8,4 +8,4 @@
 
 ...
 
-![](https://media1.tenor.com/m/Qwnng5iU9K0AAAAC/pica-pau-pica-pau-biruta.gif)
+![](https://media1.tenor.com/m/fm4u-L3RJjMAAAAC/cat-thousand-yard-stare-thousand-yard-stare.gif)

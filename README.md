@@ -2,10 +2,10 @@
 
   Meu nome é Julio Cesar.
 
-- Sou estudante dessa merda de curso chamado Alura.
+- Sou estudante do curso chamado Alura.
 - Estou desevolvendo a linguagem de programação JavaScript.
 - Sou hetero.
+- Tenho 16 anos.
 
 ...
-
-![](https://media1.tenor.com/m/fm4u-L3RJjMAAAAC/cat-thousand-yard-stare-thousand-yard-stare.gif)
+![](https://tenor.com/pt-BR/view/dodge-charger-demon-aposh-snailk-gif-22236826)
